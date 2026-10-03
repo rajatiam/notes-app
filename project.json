@@ -1,0 +1,8 @@
+{
+  "number": 3,
+  "name": "Notes app",
+  "slug": "notes-app",
+  "level": "Beginner",
+  "description": "Add categories, search, and a Python REST API.",
+  "status": "planning"
+}
